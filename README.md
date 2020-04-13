@@ -1,5 +1,5 @@
-# THIS IS A FORK FROM https://github.com/NicoCaro/DataScienceLab
-
+# THIS IS A FORK!
+https://github.com/NicoCaro/DataScienceLab
 I use this repo to keep track of the exercises/homeworks.
 Until the end of the first semester 2020 the repo will be updated.
 

@@ -1,3 +1,12 @@
+# THIS IS A FORK FROM https://github.com/NicoCaro/DataScienceLab
+
+I use this repo to keep track of the exercises/homeworks.
+Until the end of the first semester 2020 the repo will be updated.
+
+
+
+# README from original repo
+
 # MA6202: Laboratorio de Ciencia de Datos
 
 Material utilizado en el curso MA6202: Laboratorio de Ciencia de Datos. El curso se divide en 3 secciones:
